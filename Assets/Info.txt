@@ -1,0 +1,29 @@
+Player Spawn pos = 0.54f, 1.61f, 3.38f
+
+Player Arena 1 pos = -70.88f, 1.61f, 7.46f
+
+Player Vault pos = -77.9f, 1.61f, 72.12f
+
+Camera Spawn pos = 9.71f, 14.34f,  -7.48f
+
+Camera Arena 1 pos = -67.27f, 14.34f,  -7.48f
+
+Camera Vault pos = -67.27f, 14.34f, 64.18f
+
+//TODO: 
+> Do enemy animation (attack only)
+> Do player animations
+
+
+//PRESENTATIE
+voorstellen
+concept uitleggen
+moodboord style bord paper prototype
+live gameplay
+invidu laten zien wat hun aandeel is
+per persoon 1 slide
+
+//INVIDUELE BEOORDELING
+communicatie 
+aanwezigheid
+voor werk (artwork voor artists en code voor gamedev)
